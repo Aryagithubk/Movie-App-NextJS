@@ -17,3 +17,6 @@ A modern movie search frontend built with **Next.js App Router**, **TypeScript**
    ```bash
    npm install
    ```
+   ```bash
+   npm run dev (Start the development server)
+   ```
