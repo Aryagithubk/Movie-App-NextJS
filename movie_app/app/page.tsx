@@ -1,4 +1,4 @@
-// app/page.tsx
+// filepath: c:\Users\princ\Desktop\Learn_react\movie_app\app\page.tsx
 "use client";
 
 import { useEffect } from "react";
